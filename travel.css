@@ -12,7 +12,7 @@ body h1,h2,h3,p,h5{
 
 }
 .bk{
-    background-image:linear-gradient(0deg, rgba(41, 46, 51, 0.45), rgba(41, 46, 51, 0.45)), url("images/image1.jpg");
+    background-image:linear-gradient(0deg, rgba(41, 46, 51, 0.45), rgba(41, 46, 51, 0.45)), url("travel/images/image1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width:100% ;
@@ -178,7 +178,7 @@ body h1,h2,h3,p,h5{
     align-items: center;
     /* height: 600px; */
     margin: 0;
-    background-image: url("images/image1.jpg");
+    background-image: url("travel/images/image1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 50px;
@@ -199,7 +199,7 @@ body h1,h2,h3,p,h5{
   background-color:rgb(224, 143, 56) ;
 } 
 .ss{
-  background-image:linear-gradient(0deg, rgba(41, 46, 51, 0.45), rgba(41, 46, 51, 0.45)), url("images/av1.avif");
+  background-image:linear-gradient(0deg, rgba(41, 46, 51, 0.45), rgba(41, 46, 51, 0.45)), url("travel/images/av1.avif");
   background-size: cover;
   background-repeat: no-repeat;
   width:100% ;
@@ -219,7 +219,7 @@ body h1,h2,h3,p,h5{
     
 }
 .rt{
-  background-image:linear-gradient(0deg, rgba(41, 46, 51, 0.45), rgba(41, 46, 51, 0.45)), url("images/av3.avif");
+  background-image:linear-gradient(0deg, rgba(41, 46, 51, 0.45), rgba(41, 46, 51, 0.45)), url("travel/images/av3.avif");
   background-size: cover;
   background-repeat: no-repeat;
   width:100% ;
@@ -228,7 +228,7 @@ body h1,h2,h3,p,h5{
 }
 .po{
   
-    background-image:linear-gradient(0deg, rgba(41, 46, 51, 0.45), rgba(41, 46, 51, 0.45)), url("images/av4.avif");
+    background-image:linear-gradient(0deg, rgba(41, 46, 51, 0.45), rgba(41, 46, 51, 0.45)), url("travel/images/av4.avif");
     background-size: cover;
     background-repeat: no-repeat;
     width:100% ;
